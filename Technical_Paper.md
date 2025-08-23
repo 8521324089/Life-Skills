@@ -22,11 +22,15 @@ The research focuses on categorising firewalls, identifying their key functions,
 
 ## Firewall Technologies and Classification
 ### Deployment-Based Classification
-#### Hardware Firewalls: Standalone physical devices used at network perimeters.
-#### Software Firewalls: Installed on individual systems for endpoint protection.
+#### Hardware Firewalls:
+Standalone physical devices used at network perimeters.
+#### Software Firewalls: 
+Installed on individual systems for endpoint protection.
 ### Functionality-Based Classification
-#### Packet-Filtering Firewalls: Rule-based inspection of IP packets.
-#### Stateful Inspection Firewalls: Track connection states to improve security.
+#### Packet-Filtering Firewalls: 
+Rule-based inspection of IP packets.
+#### Stateful Inspection Firewalls: 
+Track connection states to improve security.
 
 ## Results
 The study highlights that traditional firewalls, while still in use, are inadequate for countering advanced threats such as polymorphic malware 
