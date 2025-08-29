@@ -39,3 +39,10 @@ and encrypted attacks, so we have to update them regularly.
 ## Conclusion
 Firewalls remain an essential defence mechanism in the cybersecurity domain. They provide robust protection against unauthorised access 
 and malicious traffic, serving as the first line of defence in network infrastructure.
+
+## References
+Documentation from Red Hat 
+https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html/configuring_firewalls_and_packet_filters/using-and-configuring-firewalld_firewall-packet-filters                                                                                                                
+Documentation from Oracle  
+https://docs.oracle.com/en-us/iaas/Content/network-firewall/overview.htm 
+
